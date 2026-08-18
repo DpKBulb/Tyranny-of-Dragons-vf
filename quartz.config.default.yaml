@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: dpkbulb.github.io/Tyranny-of-Dragons-vf/
   ignorePatterns:
     - private
     - templates
