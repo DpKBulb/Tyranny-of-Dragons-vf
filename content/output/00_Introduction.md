@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Le feu des dragons menace de consumer Féérune ! Oserez-vous vous opposer au Culte du Dragon et résister à la puissance de Tiamat, Reine des Dragons ?
 
